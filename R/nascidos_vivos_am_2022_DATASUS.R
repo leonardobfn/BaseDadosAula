@@ -11,12 +11,12 @@
 #'   ...
 #' }
 #' @source A base de dados foi acessada no dia 30/01/2024 em <http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvam.def>
-#' @references Descrições das variáveis <http://tabnet.datasus.gov.br/cgi/sinasc/Nascidos_Vivos_1994_2012.pdf>
+#' @references Descrições das variáveis estão em <http://tabnet.datasus.gov.br/cgi/sinasc/Nascidos_Vivos_1994_2012.pdf>
 #' @docType data
 #' @keywords datasets
-#' @name nascido_vivo_am_2022_DATASUS
-#' @usage data(nascido_vivo_am_2022_DATASUS)
+#' @name nascidos_vivos_am_2022_DATASUS
+#' @usage data(nascidos_vivos_am_2022_DATASUS)
 #' @examples
-#' data(nascido_vivo_am_2022_DATASUS)
-#' head(nascido_vivo_am_2022_DATASUS)
-"nascido_vivo_am_2022_DATASUS"
+#' data(nascidos_vivos_am_2022_DATASUS)
+#' head(nascidos_vivos_am_2022_DATASUS)
+"nascidos_vivos_am_2022_DATASUS"

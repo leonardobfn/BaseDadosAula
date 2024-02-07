@@ -11,7 +11,7 @@ usethis::use_test("R")
 devtools::test()
 devtools::check()
 
-?nascido_vivo_am_2022_DATASUS
+?nascidos_vivos_am_2022_DATASUS
 
 
 
